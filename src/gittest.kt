@@ -1,3 +1,3 @@
 fun main() {
-    "awdawdakdkxzxcdwad"
+    val fazendo = "dwldwadlwllwladla"
 }
